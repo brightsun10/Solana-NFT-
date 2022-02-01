@@ -1,0 +1,19 @@
+{
+    "name": "FavMeme #4 : Meme",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CzBJnnoxkmVLKukD9STm4A8anLffpf4yVXJEYX2GFJgg",
+          "share": 100
+        }
+      ]
+    }
+  }

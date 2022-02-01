@@ -1,0 +1,19 @@
+{
+    "name": "FavAnime #2 : Luffy",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CzBJnnoxkmVLKukD9STm4A8anLffpf4yVXJEYX2GFJgg",
+          "share": 100
+        }
+      ]
+    }
+  }

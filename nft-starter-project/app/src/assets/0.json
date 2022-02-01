@@ -1,0 +1,19 @@
+{
+    "name": "FavAnime #1 : Goku",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CzBJnnoxkmVLKukD9STm4A8anLffpf4yVXJEYX2GFJgg",
+          "share": 100
+        }
+      ]
+    }
+  }

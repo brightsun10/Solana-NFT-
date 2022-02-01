@@ -1,0 +1,19 @@
+{
+    "name": "FavAnime #3 : Naruto",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CzBJnnoxkmVLKukD9STm4A8anLffpf4yVXJEYX2GFJgg",
+          "share": 100
+        }
+      ]
+    }
+  }
